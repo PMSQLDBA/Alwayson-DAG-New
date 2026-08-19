@@ -40,7 +40,7 @@ WHERE ag.name IN ('AGAlpha','AGBeta','AGDistributed');
 GO
 ```
 
-Before failover, you should conceptually have:
+Before failover, we should conceptually have:
 
 ```text
 AGAlpha        = Global Primary side
