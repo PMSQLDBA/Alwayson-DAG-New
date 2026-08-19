@@ -2,6 +2,8 @@
 
 > End-to-end implementation runbook for the VMware Workstation lab built in this conversation.
 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 10_13_46 PM" src="https://github.com/user-attachments/assets/eb7c3cb5-8c4b-440a-9d82-e1f74dd4fccd" />
+
 ---
 
 ## 1. Scope
