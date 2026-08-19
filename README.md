@@ -1,4 +1,4 @@
-## Overview of Your PMLABS Setup
+## Overview of PMLABS Setup:
 
 <img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 10_13_46 PM" src="https://github.com/user-attachments/assets/3df4607e-8906-4bde-8732-7ba0a1fdebac" />
 
