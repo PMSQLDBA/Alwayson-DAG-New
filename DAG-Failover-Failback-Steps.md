@@ -2,7 +2,7 @@ Since our lab is on SQL Server 2022/16.x, use the SQL Server 2022+ Distributed A
 
 Microsoft documents that Distributed AG failover is manual and uses `FORCE_FAILOVER_ALLOW_DATA_LOSS`; for a planned no-data-loss failover, we first synchronize the Distributed AG and use `REQUIRED_SYNCHRONIZED_SECONDARIES_TO_COMMIT = 1` before switching roles. ([Microsoft Learn][1])
 
-<img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 10_29_09 PM" src="https://github.com/user-attachments/assets/3fb145a3-b445-4003-af48-c14bb5fe8823" />
+<img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 10_33_55 PM" src="https://github.com/user-attachments/assets/64a7a69b-bb07-478e-b5ca-a1a21de40b7a" />
 
 Our current logical direction is:
 
